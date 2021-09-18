@@ -1,2 +1,0 @@
-# WrAulas
-introdução ao JS
