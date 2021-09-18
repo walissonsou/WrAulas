@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(125, 224, 219);
+    font: normal 16pt arial ;
+    margin-top: 5%;
+
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow:rgba(0, 0, 0, 0.5) 5px 5px 10px  /*descolamento lateral, vertical, espalhamento */
+    
+}
+div{
+    text-align: center;
+    padding:10px;
+}
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+#imagem  {
+        border-radius: 50%;
+        width:250px;
+        height: 250px;
+}
+#botão{
+    background-color: rgba(95, 158, 160, 0.096);
+    border-style:outset;
+
+}
+#corpoInteiro{
+    background-color:rgba(0, 0, 0, 0.062);
+}
+#codigo{
+    background: rgb(85,114,115);
+    background: linear-gradient(142deg, rgba(85,114,115,1) 8%, rgba(57,133,152,1) 28%, rgba(166,195,225,1) 41%, rgba(21,156,198,1) 53%, rgba(112,115,85,0.348243521041229) 83%);
+    background-clip: text; -webkit-background-clip: text;
+    color: transparent! important;
+}
+/* .botão{
+    border-style: outset;
+    height: 20px;
+    width: 100px;
+    color: rgba(124, 103, 103, 0.966);
+    text-shadow:none;
+    border-color: #111111;
+    box-shadow:rgba(0, 0, 0, 0.5) 5px 5px 10px ;
+    padding:2px;
+    background: #b9000000;
+    font-style: normal black    ;
+} */
+#pé{
+    margin-top: 100px;
+   
+}
+#clicar{
+    font-size: 5px;
+}
